@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7491'
     url: http://www.gutenberg.org/2009/agents/7491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17612#Handbook-to-the-Severn-Valley-RailwayIllustrative-and-Descriptive-of-Places-along-the-Line-fr_
 gutenberg_issued: '2006-01-26'
 gutenberg_type: Text
 identifiers:
