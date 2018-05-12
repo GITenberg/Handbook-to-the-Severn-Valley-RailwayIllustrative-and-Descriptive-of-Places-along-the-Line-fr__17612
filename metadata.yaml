@@ -1,0 +1,29 @@
+_repo: Handbook-to-the-Severn-Valley-RailwayIllustrative-and-Descriptive-of-Places-along-the-Line-fr__17612
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Randall, John
+    birthdate: 1810
+    deathdate: 1910
+    gutenberg_agent_id: '7491'
+    url: http://www.gutenberg.org/2009/agents/7491
+description: ''
+gutenberg_issued: '2006-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- England'
+- !lcsh 'Severn Valley Railway'
+- !lcc 'DA'
+title: 'Handbook to the Severn Valley Railway
+
+  Illustrative and Descriptive of Places along the Line from Worcester to Shrewsbury'
+url: http://www.gutenberg.org/ebooks/17612
